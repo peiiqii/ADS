@@ -1,1 +1,1 @@
-# ADS
+# Algorithmen und Datenstrukturen (ADS)
