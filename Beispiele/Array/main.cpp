@@ -17,9 +17,9 @@ int main() {
 	//Ausgabe von allen Feldelementen
 	int* p1 = myArray;
 	for (int i = 0; i < myArrayLength; i++) {
+		cout << "myArray-Element " << i << ": " << myArray[i] << endl;
 		cout << "myArray-Element " << i << ": " << *p1 << endl;
 		p1++;
-		cout << "myArray-Element " << i << ": " << myArray[i] << endl;
 		cout << "myArray2-Element " << i << ": " << myArray2[i] << endl;
 	}
 }
