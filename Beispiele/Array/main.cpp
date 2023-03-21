@@ -23,5 +23,3 @@ int main() {
 		cout << "myArray2-Element " << i << ": " << myArray2[i] << endl;
 	}
 }
-
-
