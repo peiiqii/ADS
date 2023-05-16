@@ -1,0 +1,5 @@
+﻿  binaryTree.cpp
+C:\Users\Pei Qi Lim\Documents\sem 4\ADS SS23\Beispiele\Binärer Suchbaum\binaryTree.cpp(263,38): error C2084: Funktion "bool BinaryTree::removeNode(int)" hat bereits einen Funktionsrumpf
+C:\Users\Pei Qi Lim\Documents\sem 4\ADS SS23\Beispiele\Binärer Suchbaum\binaryTree.cpp(198): message : Siehe vorherige Definition von "removeNode"
+  main.cpp
+  Code wird generiert...
