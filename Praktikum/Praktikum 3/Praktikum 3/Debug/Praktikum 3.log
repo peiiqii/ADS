@@ -1,0 +1,3 @@
+﻿  Tree.cpp
+C:\Users\Pei Qi Lim\Documents\sem 4\ADS SS23\Praktikum\Praktikum 3\Praktikum 3\Tree.cpp(240): warning C4715: "Tree::proofRB": Nicht alle Codepfade geben einen Wert zurück.
+  Praktikum 3.vcxproj -> C:\Users\Pei Qi Lim\Documents\sem 4\ADS SS23\Praktikum\Praktikum 3\Debug\Praktikum 3.exe
