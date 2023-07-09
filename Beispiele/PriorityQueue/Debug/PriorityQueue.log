@@ -1,0 +1,4 @@
+﻿  PriorityQueueArray.cpp
+C:\Users\Pei Qi Lim\Documents\sem 4\ADS SS23\Beispiele\PriorityQueue\PriorityQueueArray.cpp(42,25): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\Pei Qi Lim\Documents\sem 4\ADS SS23\Beispiele\PriorityQueue\PriorityQueueArray.cpp(50,30): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+  PriorityQueue.vcxproj -> C:\Users\Pei Qi Lim\Documents\sem 4\ADS SS23\Beispiele\Debug\PriorityQueue.exe
