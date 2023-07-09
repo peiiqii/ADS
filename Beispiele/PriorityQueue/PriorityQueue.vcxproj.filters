@@ -18,12 +18,18 @@
     <ClInclude Include="PriorityQueueArray.h">
       <Filter>Headerdateien</Filter>
     </ClInclude>
+    <ClInclude Include="PriorityQueueList.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="PriorityQueueArray.cpp">
       <Filter>Quelldateien</Filter>
     </ClCompile>
     <ClCompile Include="main.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="PriorityQueueList.cpp">
       <Filter>Quelldateien</Filter>
     </ClCompile>
   </ItemGroup>
